@@ -701,7 +701,7 @@ offcanvas-menu
 
 .service-item{
   position: relative;
-  margin-bottom:2.1em;
+  margin-bottom: 2.1em;
 }
 .service-item::before{
   content: " ";
@@ -1059,7 +1059,7 @@ color:#dddddd;
 -------------------------------------------------*/
 .residential-plumb{
   overflow: hidden;
-  padding: 5em 0;
+  /* padding: 5em 0; */
 }
 .residential-plumb h2, 
 .commercial-plumb h2{
@@ -1087,7 +1087,7 @@ color:#dddddd;
 .residential-plumb .service-description,
 .commercial-plumb .service-description{
   padding: 5.2em 1.5em 1.5em 1.8em;
-  bottom: 1.5em;
+  bottom: 2.5em;
 }
 .service-description h2{
   visibility: visible;
@@ -1123,8 +1123,9 @@ color:#dddddd;
     margin: 1.5em;
     opacity: 1;
     visibility: visible;
+    top: 0;
     bottom: 0;
-    padding: 5.2em 0 1.5em 1.8em;
+    padding: 1.2em 0 1.5em 1.8em;
 }
 .commercial-plumb{
   overflow: hidden;
