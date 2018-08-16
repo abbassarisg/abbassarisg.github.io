@@ -378,7 +378,7 @@ Dropdown menu style
 }
 .main-nav .dropdown-menu{
     min-width:250px;
-    background: #fdc312;
+    background: #236466;
     border-radius: 0;
     left: -20px !important;
     display:block;
@@ -396,6 +396,8 @@ Dropdown menu style
 
 .main-nav .dropdown-menu li{
   display: block;
+  margin-bottom: 0px;
+  margin-top: 3px
 }
 .main-nav .dropdown-menu li:first-child{
   padding-top:0;
