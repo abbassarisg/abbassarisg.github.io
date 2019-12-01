@@ -11,6 +11,7 @@ Tuvaletler birçok nedenle: tuvalet kağı, kağıt havlu, ıslak mendil, temizl
 
 Kahramanmaraş’ta firmamız bünyesinde bulunan uygun ekipman ve cihazlar kullanılarak	tecrübeli personelimiz tarafından kırmadan ve dökmeden tuvalet tıkanıklığı açılmaktadır.
 
+*   TIKANIKLIK AÇMA
 *   VİDANJÖR
 *   GİDER AÇMA
 *   KANAL AÇMA
