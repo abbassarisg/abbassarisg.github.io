@@ -111,7 +111,7 @@ title: Kahramanmaraş - Sarılar Vidanjör
                 <img src="img/service/service5.jpg" alt="" style="width: 100%;">
               </div>
               <div class="service-description">
-                <h3 style="margin-top:2px;">Rögar Bakımı</h3>
+                <h3 style="margin-top:2px;">Tıkanıklık Açma</h3>
                 <p>
                   Rögarlar kullanıma bağlı olarak, içerisi; kağıt havlu, ıslak mendil, tuvalet kağıdı, ...
                 </p>
