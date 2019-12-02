@@ -16,13 +16,14 @@ title: Lavabo Tıkanıklığı Açma
 **LAVABO TIKANIKLIĞI AÇMA YÖNTEMİ 3 :Sıcak su ile birlikte marketlerde bulunan lavabo açıcılar denenebilir.
 
 
-**LAVABO TIKANIKLIĞI AÇMA:Eğer yukarıda bahsettiğimiz yöntemler olmuyarsa profesyonel bir yardım alınız. Lavabonuza kesinlikle asit dökmeyiniz. Asit hem giderinize hemde size zarar verebilir. asit ile su reaksiyona girip borularınızda burulma(yamulmaya) sebebiyet verebilir. Çünkü asitle su egzotermik bir reaksiyon oluşrurur ve ısı yayar. Buda borularınızda hasar sebebiyet verebilir. Ayrıca Lavabo tıkanıklığı açmak için asit dökürseniz; dökme esnasında gözlük maske vb. koruyucu önlem almaz iseniz sağlığınıza zarar verebilirsiniz. Kim bilir belkide döktüğünüz asit giderinizde oluşan bir kaçak sebebiyle başkasınada zarar verebilir. Lavabo tıkanılığı açmak için sizin yapabilecekleriniz yukarıda sıralanmıştır.
+**LAVABO TIKANIKLIĞI AÇMA:Eğer yukarıda bahsettiğimiz yöntemler olmuyarsa profesyonel bir yardım alınız. Lavabonuza kesinlikle asit dökmeyiniz. Asit hem giderinize hemde size zarar verebilir. Asit ile su reaksiyona girip borularınızda burulma(yamulmaya) sebebiyet verebilir. Çünkü asitle su egzotermik bir reaksiyon oluşturur ve dışarı ısı yayar. Buda borularınızda hasara sebebiyet verebilir. Ayrıca Lavabo tıkanıklığı açmak için asit dökerseniz; dökme esnasında gözlük, maske vb. koruyucu önlem almamız gerekmektedir. Eğer bu önlemler alınmaz ise sağlığınıza zarar verebilirsiniz. Kim bilir belkide döktüğünüz asit giderinizde oluşan bir kaçaktan sızıp başkasınada zarar verebilir.
+ Lavabo tıkanılığı açmak için sizin yapabilecekleriniz yukarıda sıralanmıştır.
 
 **SARILAR VİDANJÖR: Kırmadan ve dökmeden lavabo tıkanıklığı açılır.
 
-**Kırmadan ve dökmeden nasıl lavabo tıkanıklığı açılır?
+**Peki, kırmadan ve dökmeden nasıl lavabo tıkanıklığı açılır?
 
-**Firmamız bünyesinde tıkanıklık açmaya dair birçok alet ve cihaz bulunmaktadır. Tıkanıklık açma robotu, kombine kanal açma aracı vb.her şeyden önemlisi 20 yılı aşkın lavabo açma tecrübemiz bulunmkatadır.
+**Firmamız bünyesinde tıkanıklık açmaya dair birçok alet ve cihaz bulunmaktadır. Tıkanıklık açma robotu, kombine kanal açma aracı vb.Herşeyden önemlisi 20 yılı aşkın lavabo açma tecrübemiz bulunmkatadır.
 
 **Kahramanmaraş’ta firmamız bünyesinde bulunan uygun ekipman ve cihazlar kullanılarak	tecrübeli personelimiz tarafından kırmadan ve dökmeden lavabo tıkanıklığı/ tıkanıklık açılır.
 
