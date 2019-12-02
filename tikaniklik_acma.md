@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Rögar Bakımı
+title: Tıkanıklık Açma
 ---
 
 <div class="single-details" markdown="1">
 
-<img class="alighn-left" src="img/service/kirlilik foto.jpeg">
+<img class="alighn-left" src="img/service/kirlilik_foto.jpeg">
 
 **RÖGAR:** Kanalizasyona inmek ve tıkanıklığı gidermek üzere yapılmış özel bacalara denir.
 

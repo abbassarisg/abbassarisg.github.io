@@ -115,7 +115,7 @@ title: Kahramanmaraş - Sarılar Vidanjör
                 <p>
                   Rögarlar kullanıma bağlı olarak, içerisi; kağıt havlu, ıslak mendil, tuvalet kağıdı, ...
                 </p>
-                <a href="rogar_bakimi.html">Devamını Oku</a>
+                <a href="tikaniklik_acma.html">Devamını Oku</a>
               </div>
             </div>
           </div>
