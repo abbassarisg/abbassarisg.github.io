@@ -5,7 +5,7 @@ title: Rögar Bakımı
 
 <div class="single-details" markdown="1">
 
-<img class="alighn-left" src="img/service/service5.jpg">
+<img class="alighn-left" src="img/service/kirlilik foto.jpeg">
 
 **RÖGAR:** Kanalizasyona inmek ve tıkanıklığı gidermek üzere yapılmış özel bacalara denir.
 
