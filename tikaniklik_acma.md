@@ -5,6 +5,8 @@ title: Tıkanıklık Açma
 
 <div class="single-details" markdown="1">
 
+<iframe width="100%" height="386" src="https://www.youtube.com/embed/NZSbFBbas-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <img class="alighn-left" style="height: 500px;" src="img/service/kirlilik_foto.jpeg">
 
 **RÖGAR:** Kanalizasyona inmek ve tıkanıklığı gidermek üzere yapılmış özel bacalara denir.
