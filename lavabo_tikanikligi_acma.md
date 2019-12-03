@@ -5,11 +5,13 @@ title: Lavabo Tıkanıklığı Açma
 
 <div class="single-details" markdown="1">
 
+<iframe width="100%" height="386" src="https://www.youtube.com/embed/KTnT3m3N-jw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <img class="alighn-left" src="img/service/service3.jpg">
 
 **LAVABO TIKANIKLIĞI: Mutfak lavaboları birçok nedenle tıkanabilmektedir.Lavabo tıkanıklığının başlıca sebebi, mutfak giderlerinden giden yağların donarak katı bloklar haline gelmesiyle olmaktadır.evde lavabo tıkanıklığı açma risklidir. Eğer tıkanıklık açılmazsa mutfağınız kirli su ile batabilir. Lavabo tıkanıklığını amatör olarak evde açmanız için belirli şeyler vardır. Aksi takdirde profesyonel bir yardım almanız gerekmektedir.
 
-**EVDE LAVABO TIKANIKLIĞI AÇMA YÖNTEMİ 1:  Kaynamamış bir kova sıcak su ile(70-80 derece arası) yağ çözücü deterjanı(Bulaşık deterjanı olabilir) karıştırıp lavabonuza dökebilirsiniz.Yaklaşık 5 dk bekleyiniz. Arkasından tekrar sıcak su dökünüz. 
+**EVDE LAVABO TIKANIKLIĞI AÇMA YÖNTEMİ 1:  Kaynamamış bir kova sıcak su ile(70-80 derece arası) yağ çözücü deterjanı(Bulaşık deterjanı olabilir) karıştırıp lavabonuza dökebilirsiniz.Yaklaşık 5 dk bekleyiniz. Arkasından tekrar sıcak su dökünüz.
 
 **LAVABO TIKANIKLIĞI AÇMA YÖNTEMİ 2 :Yarım su bardağı toz karbonat ve yarım su bardağı sirke karıştırılıp laboya döktükten sonra 10-15 dk bekleyiz ve arkasından kaynamamış su dökünüz.
 

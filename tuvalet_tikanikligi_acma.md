@@ -5,6 +5,8 @@ title: Tuvalet Tıkanıklığı Açma
 
 <div class="single-details" markdown="1">
 
+<iframe width="100%" height="386" src="https://www.youtube.com/embed/KTnT3m3N-jw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <img class="alighn-left" src="img/service/service1.jpg">
 
   Tuvalet tıkanıklığı: tuvalet kağı, kağıt havlu, ıslak mendil, temizlik bezi ve yağ blokları vb. oluşabilmektedir. Tuvalet tıkanıklığını açılırken kırmadan ve dökmeden açmak birinci önceliktir. Bunun için tuvalet tıkanıklığı açılırken kullanılan cihazlar çok önemlidir. SARILAR VİDANJÖR bünyesinde bulunan kombine kanal açma aracı ve tıkanıklık açma robotu sayesinde kırmadan ve dökmeden tuvalet tıkanıklığı açılmaktadır.
@@ -28,7 +30,7 @@ Kahramnmaraş tuvalet tıkanıklığı kırmadan ve dökmeden açılır.
 *   KANAL TEMİZLİĞİ
 *   LOGAR TEMİZLİĞİ
 *   SARILAR VİDANJÖR
-*   KANALİZASYON 
+*   KANALİZASYON
 *   TIKANIKLIK
 
 </div>
